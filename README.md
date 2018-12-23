@@ -31,3 +31,5 @@ I've used LSTM cell as my RNN cells. LSTM was created to solve vanishing gradien
 <img src="https://cdn-images-1.medium.com/max/1600/1*Niu_c_FhGtLuHjrStkB_4Q.png" alt="LSTM cell" width="350" height="350">
 
 ### Deep Model
+
+Visualization will be added soon using [Tensorboard](https://www.tensorflow.org/guide/summaries_and_tensorboard).
