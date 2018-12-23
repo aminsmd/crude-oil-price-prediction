@@ -25,4 +25,9 @@ My goal was to predict the 21st day pricing based on the 20-day window before th
 
 ## Deep Sequence Model
 
-![LSTM cell](http://url/to/img.png)
+### Long Short-term Memory (LSTM)
+I've used LSTM cell as my RNN cells. LSTM was created to solve vanishing gradient in normal RNN cells by adding a short-term memory to cells. You can learn more on this subject [here](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+
+<img src="https://cdn-images-1.medium.com/max/1600/1*Niu_c_FhGtLuHjrStkB_4Q.png" alt="LSTM cell" width="350" height="350">
+
+### Deep Model
